@@ -1,0 +1,35 @@
+/*
+External CSS file for Lifestyle Store project
+*/
+#banner_image{
+    padding-bottom: 10px; 
+    margin-bottom: 20px;
+    text-align: center; 
+    color: #f8f8f8; 
+    background: url("../img/intro-bg_1.jpg") no-repeat center; 
+    background-size: cover;
+}
+.inner-banner-image{
+  padding-top: 10%; 
+  width:50%; 
+  margin:auto; 
+}
+#banner_content{
+   position: relative; 
+   padding-top: 6%; 
+   padding-bottom: 6%; 
+   overflow:hidden; 
+   margin-bottom: 12%; 
+   background-color: rgba(0, 0, 0, 0.7); 
+   max-width: 660px; 
+}
+footer{
+  padding: 10px 0;
+  background-color: #101010;
+  color:#9d9d9d;
+  bottom: 0;
+  width: 100%; 
+}
+.row_style{
+    margin-top: 10px;
+}
