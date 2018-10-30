@@ -25,7 +25,7 @@ if (isset($_SESSION['email'])) { header('location: product.php'); }
                 <center>
                     <div class="row row_style">
                         <div class="col-xs-12">
-                            <div class="panel panel-primary" style="margin-bottom: 65px;">
+                            <div class="panel panel-primary" style="margin-bottom: 120px;">
                                 <div class="panel-heading">
                                     <h4>Login to make a purchase</h4>
                                 </div>
